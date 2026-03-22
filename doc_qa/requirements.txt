@@ -1,5 +1,5 @@
 streamlit
-zhipuai
+zhipuai==2.1.5
 PyPDF2
 python-docx
 docx2txt
