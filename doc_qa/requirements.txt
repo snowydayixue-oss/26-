@@ -1,0 +1,6 @@
+streamlit
+zhipuai
+PyPDF2
+python-docx
+docx2txt
+pywin32
